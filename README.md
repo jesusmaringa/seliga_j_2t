@@ -1,1 +1,2 @@
-# seliga_j_2t
+# Nome      Nr.   Turma
+# Jesus     50    1J
